@@ -90,10 +90,10 @@ function Navigation() {
               </NavDropdown>
               <NavDropdown title="GitHub" id="collapsible-nav-dropdown">
                 <NavDropdown.Item href="https://github.com/VanditGupta" target="_blank">
-                  Vandit Gupta
+                  Vandit Gupta - Section 2
                 </NavDropdown.Item>
                 <NavDropdown.Item href="https://github.com/GargiUmrajkar" target="_blank">
-                  Gargi Umrajkar
+                  Gargi Umrajkar - Section 2
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
                 <NavDropdown.Item href="https://github.com/VanditGupta/AutoWiz" target="_blank">
